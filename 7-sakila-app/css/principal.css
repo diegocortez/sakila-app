@@ -1,0 +1,84 @@
+body {
+
+}
+
+.bodys{
+	background:#09F;
+	}
+	
+.contenedor-titulo {
+	background: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	margin: 10px;
+	padding: 10px;	
+	border-radius: 12px;
+box-shadow: 0px 0px 7px #000000;
+/*Color degradado*/
+background-image: -moz-linear-gradient(top, transparent, #1ad7ff);
+background-image: -ms-linear-gradient(top, transparent, #1ad7ff);
+background-image: -o-linear-gradient(top, transparent, #1ad7ff);
+background-image: -webkit-linear-gradient(top, transparent, #1ad7ff);
+background-image: linear-gradient(top, transparent, #1ad7ff);
+
+
+
+	}
+	
+.contenedor-aplicacion {
+	background:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	margin: 10px;
+	padding: 10px;	
+	border-radius: 12px;
+box-shadow: 0px 0px 7px #000000;
+background-image: -moz-linear-gradient(top, transparent, #1ad7ff);
+background-image: -ms-linear-gradient(top, transparent, #1ad7ff);
+background-image: -o-linear-gradient(top, transparent, #1ad7ff);
+background-image: -webkit-linear-gradient(top, transparent, #1ad7ff);
+background-image: linear-gradient(top, transparent, #1ad7ff);
+
+
+
+	}
+	
+.contenedor-encabezado {
+	background:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	margin: 10px;
+	padding: 10px;
+	width:97%;
+	height:50px;;	
+	border-radius: 12px;
+	/*Efectos, bordes,sombras*/
+box-shadow: 0px 0px 7px #000000;
+background-image: -moz-linear-gradient(top, transparent, #1ad7ff);
+background-image: -ms-linear-gradient(top, transparent, #1ad7ff);
+background-image: -o-linear-gradient(top, transparent, #1ad7ff);
+background-image: -webkit-linear-gradient(top, transparent, #1ad7ff);
+background-image: linear-gradient(top, transparent, #1ad7ff);
+
+
+
+	}
+	
+.contenedor-left{
+	float:left;   /*Float es para alinear a un lado un contenedor*/
+	}
+	
+	.contenedor-right{
+	float:right;
+	font-size:12px;
+	}
+	
+
+	
+.efecto-botones{
+	border-radius: 24px;
+box-shadow: 0px 0px 13px #000000;
+opacity: 0.8;
+
+
+	}
